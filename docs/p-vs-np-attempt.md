@@ -214,6 +214,8 @@ lower bounds for every known solver family. A resolution needs a new idea that
 is non-relativizing, non-natural, and non-algebrizing. Nobody has one, and
 this document doesn't claim to.
 
+Seven more lines of attack are in [round 2](p-vs-np-attempt-round-2.md).
+
 ## References
 
 - Baker, Gill, Solovay. *Relativizations of the P =? NP Question.* SIAM J. Comput., 1975.
